@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Muhasabah Sholat</string>
+    <string name="jadwal_sholat">Jadwal Sholat</string>
+    <string name="namadaerah">Nama Daerah</string>
 </resources>
